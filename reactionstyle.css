@@ -1,0 +1,12 @@
+﻿#shape {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+}
+
+#container {
+    height: 600px;
+    width: 700px;
+}
+
